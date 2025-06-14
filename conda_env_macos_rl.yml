@@ -74,8 +74,8 @@ dependencies:
 - libflac=1.4.3=hb765f3a_0
 - libgettextpo=0.22.5=h8414b35_3
 - libgettextpo-devel=0.22.5=h8414b35_3
-- libgfortran=5.0.0=13_2_0_hd922786_3
-- libgfortran5=13.2.0=hf226fd6_3
+- libgfortran=14.2.0=heb5dd2a_105
+- libgfortran5=14.2.0=h2c44a93_105
 - libglib=2.82.2=hdff4504_1
 - libiconv=1.17=h0d3ecfb_2
 - libintl=0.22.5=h8414b35_3
@@ -149,7 +149,7 @@ dependencies:
 - qhull=2020.2=h420ef59_5
 - rav1e=0.6.6=h69fbcac_2
 - readline=8.2=h92ec313_1
-- scipy=1.15.1=py310hd50a768_0
+- scipy=1.15.2=py310h32ab4ed_0
 - sdl2=2.30.10=h994913f_0
 - sdl2_image=2.8.2=h376e2e1_1
 - sdl2_mixer=2.6.3=h4fe3bdc_1
